@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋，我是 [Evan]</h1>
 
-<!--
-**Evan-Yun-love/Evan-Yun-love** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌟 欢迎来到我的 GitHub 主页 🌟<br>
+  💻 通信工程 ｜ 🎨 XMUer ｜ 🚀 大模型技术学习ing...
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 关于我
+
+- 🔭 当前正在做：开发 [项目名称或类型]  
+- 🌱 学习中：大模型
+- 💬 有兴趣聊聊：RAG、Agent 
+- 📫 联系方式：[1084251964@qq.com] | [你的博客链接]  
+- 🎯 目标：冲刺秋招，成为一名优秀的大模型算法/开发工程师
+
+---
+
+## 🛠 技能栈
+
+
+
+---
